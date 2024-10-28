@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hello! I am Paulo Ferreira de OLiveira 👋
+## About me
 
 <!--
 **pauloo-dev43/pauloo-dev43** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on **[I work at a cleaning products distributor.]**
+- 🌱 I’m currently learning **[GitHub Basics.]**
+- 💬 Ask me about **[PhP Basics.]**
+- 📫 How to reach me: **[oliveirapaulo694@gmail.com]**
+- ⚡ Fun fact: **[A fan person]**
 -->
+
+### Interests
+- **Technology:** _Php and Database._
+- **Projects:** _Learning in subjects that encompass Technical Education in Systems Development._
+-  **Studies:** _Looking for a broader knowledge in PhP and Information Security._
+
+_ _ _
+
+**Let's connect**
+- [LinkedIn](https://www.linkedin.com/in/paulo-oliveira-80b24a300)🙂
+- [GitHub](pauloo-dev43)😎
+
+
