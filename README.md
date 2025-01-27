@@ -1,4 +1,4 @@
-# Hello! I am Paulo Ferreira de OLiveira 👋
+# Hello! I am Paulo Ferreira de Oliveira 👋
 ## About me
 
 <!--
