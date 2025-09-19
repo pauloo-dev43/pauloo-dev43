@@ -12,7 +12,7 @@
 -->
 
 ### Interests
-- **Technology:** _Php and Database._
+- **Technology:** _HTML/CSS/JavaScript/PhP/React._
 - **Projects:** _Learning in subjects that encompass Technical Education in Systems Development._
 -  **Studies:** _Looking for a broader knowledge in PhP and Information Security._
 
